@@ -1,0 +1,37 @@
+total 60
+-rw-rw-rw-  1 vscode root    444 Mar  9 00:06 CODE_OF_CONDUCT.md
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 create-resource-group
+-rw-rw-rw-  1 vscode root   1141 Mar  9 00:06 LICENSE
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 modifying-file-permissions
+-rw-rw-rw-  1 vscode vscode    0 Mar 16 23:34 output.txt
+-rw-rw-rw-  1 vscode vscode    0 Mar 16 23:34 part3.txt
+-rw-rw-rw-  1 vscode root   3070 Mar  9 00:06 README.md
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 redirection-and-pipelines
+-rw-rw-rw-  1 vscode root   2757 Mar  9 00:06 SECURITY.md
+-rw-rw-rw-  1 vscode root   1244 Mar  9 00:06 SUPPORT.md
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 viewing-files
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-are-case-statements
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-are-conditional-statements
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-are-functions
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-are-loops
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-is-a-bash-script
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-is-a-variable
+total 64
+-rw-rw-rw-  1 vscode root    444 Mar  9 00:06 CODE_OF_CONDUCT.md
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 create-resource-group
+-rw-rw-rw-  1 vscode root   1141 Mar  9 00:06 LICENSE
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 modifying-file-permissions
+-rw-rw-rw-  1 vscode vscode 1093 Mar 16 23:34 output.txt
+-rw-rw-rw-  1 vscode vscode    0 Mar 16 23:34 part3.txt
+-rw-rw-rw-  1 vscode vscode    0 Mar 16 23:34 part4.txt
+-rw-rw-rw-  1 vscode root   3070 Mar  9 00:06 README.md
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 redirection-and-pipelines
+-rw-rw-rw-  1 vscode root   2757 Mar  9 00:06 SECURITY.md
+-rw-rw-rw-  1 vscode root   1244 Mar  9 00:06 SUPPORT.md
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 viewing-files
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-are-case-statements
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-are-conditional-statements
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-are-functions
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-are-loops
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-is-a-bash-script
+drwxrwxrwx+ 2 vscode root   4096 Mar  9 00:06 what-is-a-variable
